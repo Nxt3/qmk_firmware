@@ -11,3 +11,7 @@ To make use of this file you will need follow the following steps:
 * You are now ready to compile or use your keymap with the source
 
 More information can be found in the QMK docs: <https://docs.qmk.fm>
+
+# Build command:
+
+`make clueboard/66_hotswap/gen1:nxt3:all`
